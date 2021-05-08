@@ -1,0 +1,27 @@
+#showpara1{
+    padding-top: 300px;
+    font-size: 25px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: double;
+}
+
+#d{
+    margin-left: 240px;
+}
+
+#i{
+    margin-right: 240px;
+}
+
+body{
+    background: linear-gradient(lime,aqua,red,blue,violet,indigo,goldenrod,black);
+}
+
+#showpara2{
+    padding-bottom: 350px;
+    font-size: 25px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: double;
+}
